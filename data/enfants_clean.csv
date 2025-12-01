@@ -1,0 +1,501 @@
+nom,prenoms,gender,age,niveau,taille_tshirt,eglise,contact_parent,allergie_maladie
+Koffi,Hermann,Garçon,10,3,L,Miséricorde,+225 71065484,Aucune
+Gbagbo,Jean,Garçon,8,2,M,Beugre village,+225 93547701,Asthme
+Diabate,Mamadou,Garçon,5,1,S,Beugre village,+225 94415863,Aucune
+Bakayoko,Franck,Garçon,14,4,XL,Akouedo,+225 28142650,Aucune
+Silue,Akissi,Fille,9,2,L,Miséricorde,+225 69631298,Aucune
+Ble,Arsene,Garçon,7,1,M,Bethesda,+225 89759269,Aucune
+Dago,Rosine,Fille,7,1,M,Akouedo,+225 93324747,Aucune
+Koffi,Estelle,Fille,12,3,XL,Bethesda,+225 09882785,Aucune
+Fofana,Mariam,Fille,14,4,XL,Miséricorde,+225 35428115,Aucune
+Silue,Mariam,Fille,13,4,XL,Bethesda,+225 93810769,Aucune
+Bakayoko,Marie,Fille,12,3,XL,Miséricorde,+225 64675978,Aucune
+Diabate,Mohamed,Garçon,9,2,L,Akouedo,+225 51148237,Aucune
+Diomande,Desire,Garçon,11,3,L,Miséricorde,+225 46837876,Aucune
+Kouassi,Serge,Garçon,15,4,XL,Vridi,+225 77498719,Aucune
+Dago,Emmanuel,Garçon,4,1,S,Akouedo,+225 75504553,Aucune
+Yao,Rosine,Fille,13,4,XL,Bethesda,+225 93702026,Aucune
+Coulibaly,Nadege,Fille,15,4,XL,Marchou,+225 93330930,Aucune
+Kouassi,Joel,Garçon,8,2,M,Miséricorde,+225 81978366,Aucune
+Gnagne,Sylvie,Fille,11,3,L,Bethesda,+225 75491188,Aucune
+Bakayoko,Kouadio,Garçon,9,2,L,Akouedo,+225 99732748,Aucune
+Fofana,Affoue,Fille,14,4,XL,Miséricorde,+225 56001662,Aucune
+Toure,Mariam,Fille,9,2,L,Marchou,+225 60914492,Allergie à la poussière
+Amani,Guy,Garçon,12,3,XL,Beugre village,+225 13644702,Aucune
+Kouassi,Koffi,Garçon,13,4,XL,Bethesda,+225 43490038,Asthme
+Adjoumani,Lydie,Fille,8,2,M,Miséricorde,+225 34882891,Aucune
+Toure,Emmanuella,Fille,9,2,L,Bethesda,+225 19888096,Aucune
+Traore,Souleymane,Garçon,14,4,XL,Beugre village,+225 46841658,Aucune
+Dago,Elisabeth,Fille,7,1,M,Miséricorde,+225 90428563,Aucune
+Koffi,Corinne,Fille,12,3,XL,Akouedo,+225 68063463,Aucune
+Brou,Sandrine,Fille,6,1,M,Miséricorde,+225 22472985,Aucune
+Kouame,Mohamed,Garçon,13,4,XL,Bethesda,+225 77544555,Asthme
+Kouassi,Hermann,Garçon,5,1,S,Abobo Gare,+225 76069055,Allergie à la poussière
+Kouassi,Lydie,Fille,8,2,M,Marchou,+225 07732719,Aucune
+Brou,Desiree,Fille,10,3,L,Beugre village,+225 49821523,Aucune
+Kone,Elisabeth,Fille,9,2,L,Akouedo,+225 17701262,Aucune
+Silue,Arsene,Garçon,13,4,XL,Bethesda,+225 87230704,Aucune
+Bedie,Emmanuel,Garçon,12,3,XL,Beugre village,+225 28279735,Allergie à la poussière
+Kouassi,Mohamed,Garçon,10,3,L,Bethesda,+225 46831037,Aucune
+Assi,Corinne,Fille,12,3,XL,Marchou,+225 58125683,Aucune
+Bamba,Lucien,Garçon,11,3,L,Abobo Gare,+225 83458413,Aucune
+Kouassi,Didier,Garçon,8,2,M,Akouedo,+225 41299476,Allergie à la poussière
+Yao,Wilfried,Garçon,10,3,L,Miséricorde,+225 63430221,Aucune
+Yao,Souleymane,Garçon,8,2,M,Abobo Gare,+225 58771435,Aucune
+Toure,Fatoumata,Fille,15,4,XL,Miséricorde,+225 74751121,Aucune
+Assi,Emmanuel,Garçon,15,4,XL,Miséricorde,+225 06991404,Allergie à la poussière
+Adjoumani,Patricia,Fille,7,1,M,Bethesda,+225 21350447,Aucune
+N'Guessan,Arsene,Garçon,9,2,L,Beugre village,+225 98667225,Sinusite
+Adjoumani,Victoire,Fille,5,1,S,Miséricorde,+225 39141715,Aucune
+Soro,Bernadette,Fille,14,4,XL,Miséricorde,+225 84307053,Sinusite
+Koffi,Victoire,Fille,7,1,M,Beugre village,+225 21254032,Aucune
+Diabate,Jean,Garçon,11,3,L,Bethesda,+225 72478165,Asthme
+Toure,Akissi,Fille,15,4,XL,Miséricorde,+225 41586360,Aucune
+Kone,Kouadio,Garçon,5,1,S,Miséricorde,+225 12894707,Sinusite
+Bamba,Grace,Fille,11,3,L,Akouedo,+225 52208541,Aucune
+Traore,Eric,Garçon,13,4,XL,Bethesda,+225 16801420,Aucune
+Adjoumani,Adjoua,Fille,5,1,S,Miséricorde,+225 57313316,Aucune
+Aka,Mohamed,Garçon,14,4,XL,Bethesda,+225 19607163,Aucune
+Diabate,Serge,Garçon,7,1,M,Beugre village,+225 97492687,Aucune
+Koffi,Corinne,Fille,16,4,XL,Bethesda,+225 00446850,Aucune
+Amani,Corinne,Fille,12,3,XL,Miséricorde,+225 98067098,Aucune
+Fofana,Rosine,Fille,8,2,M,Akouedo,+225 98062600,Allergie à la poussière
+N'Guessan,Wilfried,Garçon,10,3,L,Bethesda,+225 37922518,Aucune
+Coulibaly,Arsene,Garçon,11,3,L,Bethesda,+225 79937930,Aucune
+Yao,Mohamed,Garçon,7,1,M,Miséricorde,+225 73409410,Aucune
+Fofana,Pascal,Garçon,9,2,L,Beugre village,+225 38943436,Aucune
+Gon,Arnaud,Garçon,8,2,M,Marchou,+225 09891334,Aucune
+Yao,Wilfried,Garçon,13,4,XL,Beugre village,+225 36459309,Aucune
+Assi,Eric,Garçon,11,3,L,Abobo Gare,+225 00078584,Aucune
+Gbagbo,Franck,Garçon,12,3,XL,Bethesda,+225 74090419,Asthme
+Coulibaly,Rosine,Fille,13,4,XL,Miséricorde,+225 02633727,Aucune
+N'Guessan,Amenan,Fille,11,3,L,Beugre village,+225 51460995,Aucune
+Gnagne,Souleymane,Garçon,9,2,L,Bethesda,+225 79746639,Allergie alimentaire
+Kouassi,Abdoulaye,Garçon,10,3,L,Miséricorde,+225 92221115,Aucune
+Ble,Affoue,Fille,5,1,S,Miséricorde,+225 33206051,Aucune
+Aka,Souleymane,Garçon,6,1,M,Miséricorde,+225 43534616,Sinusite
+Amani,Eric,Garçon,9,2,L,Bethesda,+225 87326583,Aucune
+Bamba,Joel,Garçon,4,1,S,Miséricorde,+225 22440727,Aucune
+Kouame,Serge,Garçon,14,4,XL,Miséricorde,+225 69361336,Aucune
+Gbagbo,Victoire,Fille,8,2,M,Miséricorde,+225 00475410,Asthme
+Kone,Ismael,Garçon,11,3,L,Miséricorde,+225 91948736,Asthme
+Soro,Bernadette,Fille,8,2,M,Akouedo,+225 67059786,Aucune
+Brou,Boris,Garçon,10,3,L,Beugre village,+225 45003051,Aucune
+Soro,Stephane,Garçon,13,4,XL,Beugre village,+225 41272987,Aucune
+Diomande,Aya,Fille,12,3,XL,Bethesda,+225 63186692,Aucune
+Adjoumani,Marie,Fille,13,4,XL,Abobo Gare,+225 76839348,Aucune
+Ouattara,Seydou,Garçon,5,1,S,Miséricorde,+225 48546672,Aucune
+Yao,Arnaud,Garçon,10,3,L,Akouedo,+225 71279475,Aucune
+Ouattara,Kouakou,Garçon,5,1,S,Bethesda,+225 01682244,Aucune
+Kouassi,Lydie,Fille,10,3,L,Abobo Gare,+225 38310467,Sinusite
+N'Guessan,Christian,Garçon,7,1,M,Beugre village,+225 75831854,Aucune
+Aka,Awa,Fille,7,1,M,Abobo Gare,+225 66964455,Sinusite
+Koffi,Souleymane,Garçon,10,3,L,Miséricorde,+225 13994665,Aucune
+Fofana,Seydou,Garçon,8,2,M,Miséricorde,+225 13321800,Allergie alimentaire
+Gon,Josephine,Fille,6,1,M,Miséricorde,+225 57129316,Asthme
+Gbagbo,Elisabeth,Fille,12,3,XL,Bethesda,+225 41071095,Aucune
+Silue,Corinne,Fille,6,1,M,Akouedo,+225 68714565,Aucune
+Silue,Mamadou,Garçon,14,4,XL,Bethesda,+225 60607679,Asthme
+Bedie,Hermann,Garçon,11,3,L,Bethesda,+225 29097063,Aucune
+Konan,Corinne,Fille,16,4,XL,Bethesda,+225 84263124,Asthme
+Toure,Christelle,Fille,6,1,M,Bethesda,+225 39509441,Aucune
+Aka,Kouakou,Garçon,8,2,M,Akouedo,+225 24577226,Aucune
+Kouassi,Christelle,Fille,10,3,L,Beugre village,+225 14249086,Aucune
+Kouame,Aya,Fille,5,1,S,Miséricorde,+225 30606256,Asthme
+Silue,Sandrine,Fille,13,4,XL,Bethesda,+225 69857037,Aucune
+Gnagne,Michel,Garçon,16,4,XL,Bethesda,+225 36561905,Aucune
+Gbagbo,Mariam,Fille,13,4,XL,Miséricorde,+225 57418582,Asthme
+Bedie,Didier,Garçon,9,2,L,Bethesda,+225 39978556,Sinusite
+Traore,Pascal,Garçon,14,4,XL,Beugre village,+225 87536111,Aucune
+Ouattara,Kouakou,Garçon,13,4,XL,Beugre village,+225 07458465,Aucune
+Gnagne,Nadege,Fille,7,1,M,Abobo Gare,+225 15192339,Aucune
+Fofana,Desiree,Fille,12,3,XL,Bethesda,+225 80378153,Sinusite
+Yao,Patricia,Fille,7,1,M,Miséricorde,+225 05963996,Allergie à la poussière
+Diabate,Stephane,Garçon,19,4,XL,Bethesda,+225 39949733,Aucune
+Traore,Desiree,Fille,5,1,S,Miséricorde,+225 27981562,Aucune
+Aka,Emmanuel,Garçon,8,2,M,Akouedo,+225 86203334,Aucune
+Kone,Wilfried,Garçon,13,4,XL,Bethesda,+225 66584744,Aucune
+Adjoumani,Sandrine,Fille,13,4,XL,Miséricorde,+225 57803021,Aucune
+Soro,Elisabeth,Fille,8,2,M,Beugre village,+225 73499918,Aucune
+Koffi,Souleymane,Garçon,11,3,L,Beugre village,+225 68250068,Aucune
+Diabate,Madeleine,Fille,10,3,L,Akouedo,+225 97491179,Aucune
+Gnagne,Wilfried,Garçon,11,3,L,Akouedo,+225 83275415,Aucune
+Coulibaly,Grace,Fille,14,4,XL,Miséricorde,+225 96429169,Aucune
+Diabate,Joel,Garçon,14,4,XL,Bethesda,+225 75943789,Aucune
+Adjoumani,Affoue,Fille,15,4,XL,Miséricorde,+225 73983532,Aucune
+Gnagne,Michel,Garçon,9,2,L,Bethesda,+225 88447102,Aucune
+Gon,Kouakou,Garçon,12,3,XL,Miséricorde,+225 69771030,Aucune
+Fofana,Michel,Garçon,13,4,XL,Bethesda,+225 12594165,Aucune
+N'Guessan,Bernadette,Fille,13,4,XL,Miséricorde,+225 70311815,Allergie à la poussière
+Diomande,Kouadio,Garçon,11,3,L,Bethesda,+225 54808890,Allergie à la poussière
+Diabate,Boris,Garçon,11,3,L,Bethesda,+225 40309543,Asthme
+Yao,Koffi,Garçon,14,4,XL,Bethesda,+225 16458884,Aucune
+Silue,Mamadou,Garçon,7,1,M,Bethesda,+225 27600602,Allergie à la poussière
+Fofana,Mamadou,Garçon,7,1,M,Miséricorde,+225 33105767,Sinusite
+Yao,Ismael,Garçon,6,1,M,Beugre village,+225 39091865,Aucune
+Koffi,Kadiatou,Fille,10,3,L,Akouedo,+225 23546166,Sinusite
+Soro,Abdoulaye,Garçon,9,2,L,Miséricorde,+225 54328344,Aucune
+Amani,Amenan,Fille,8,2,M,Beugre village,+225 46248220,Aucune
+Bedie,Serge,Garçon,11,3,L,Beugre village,+225 23109084,Aucune
+Traore,Grace,Fille,13,4,XL,Beugre village,+225 60444639,Aucune
+Gon,Guy,Garçon,11,3,L,Marchou,+225 71704011,Asthme
+Gnagne,Christian,Garçon,9,2,L,Bethesda,+225 58347214,Aucune
+N'Guessan,Awa,Fille,10,3,L,Akouedo,+225 06873655,Aucune
+Gon,Adjoua,Fille,9,2,L,Bethesda,+225 37016260,Aucune
+Kouame,Eric,Garçon,5,1,S,Akouedo,+225 37285255,Aucune
+Koffi,Victoire,Fille,12,3,XL,Bethesda,+225 77438450,Asthme
+N'Guessan,Emmanuel,Garçon,14,4,XL,Miséricorde,+225 84808951,Aucune
+Ouattara,Sandrine,Fille,11,3,L,Beugre village,+225 76833679,Aucune
+Diabate,Seydou,Garçon,6,1,M,Miséricorde,+225 95871592,Aucune
+Traore,Michel,Garçon,9,2,L,Bethesda,+225 65590349,Aucune
+N'Guessan,Bernadette,Fille,15,4,XL,Akouedo,+225 84444059,Aucune
+Konan,Madeleine,Fille,13,4,XL,Miséricorde,+225 17863365,Aucune
+Diabate,Souleymane,Garçon,9,2,L,Miséricorde,+225 27268305,Aucune
+Silue,Koffi,Garçon,9,2,L,Miséricorde,+225 26590310,Aucune
+Soro,Michel,Garçon,11,3,L,Miséricorde,+225 46940927,Aucune
+Amani,Aminata,Fille,13,4,XL,Bethesda,+225 48033143,Aucune
+Bedie,Emmanuella,Fille,12,3,XL,Miséricorde,+225 83362065,Aucune
+Bedie,Josephine,Fille,13,4,XL,Miséricorde,+225 74061953,Aucune
+Fofana,Emmanuella,Fille,10,3,L,Marchou,+225 34017987,Aucune
+Assi,Aya,Fille,7,1,M,Bethesda,+225 29314041,Aucune
+Kouame,Emmanuel,Garçon,17,4,XL,Akouedo,+225 98120901,Aucune
+Gnagne,Wilfried,Garçon,15,4,XL,Akouedo,+225 74708648,Aucune
+Dago,Nadege,Fille,9,2,L,Beugre village,+225 83246000,Allergie alimentaire
+Diomande,Adjoua,Fille,11,3,L,Bethesda,+225 26884785,Asthme
+Ble,Kouakou,Garçon,15,4,XL,Bethesda,+225 72972182,Aucune
+Bamba,Desire,Garçon,16,4,XL,Beugre village,+225 09914889,Aucune
+Koffi,Arsene,Garçon,9,2,L,Bethesda,+225 40505755,Aucune
+Kouame,Kadiatou,Fille,12,3,XL,Miséricorde,+225 38222768,Aucune
+Bedie,Franck,Garçon,8,2,M,Bethesda,+225 34419797,Aucune
+Diabate,Kouadio,Garçon,12,3,XL,Bethesda,+225 74982900,Aucune
+Amani,Aminata,Fille,8,2,M,Akouedo,+225 79471224,Aucune
+Adjoumani,Nadege,Fille,9,2,L,Bethesda,+225 78691470,Aucune
+Yao,Christian,Garçon,17,4,XL,Bethesda,+225 17290869,Sinusite
+Yao,Guy,Garçon,10,3,L,Bethesda,+225 84411019,Aucune
+Gnagne,Kadiatou,Fille,12,3,XL,Bethesda,+225 77486484,Aucune
+Diomande,Rosine,Fille,16,4,XL,Akouedo,+225 65327334,Asthme
+Ouattara,Grace,Fille,7,1,M,Abobo Gare,+225 42034400,Aucune
+Toure,Serge,Garçon,14,4,XL,Beugre village,+225 23320312,Allergie à la poussière
+Amani,Seydou,Garçon,19,4,XL,Bethesda,+225 91055985,Aucune
+Gnagne,Hermann,Garçon,12,3,XL,Miséricorde,+225 13006140,Aucune
+Diomande,Joel,Garçon,5,1,S,Bethesda,+225 46861210,Aucune
+Aka,Nadege,Fille,14,4,XL,Miséricorde,+225 62497985,Asthme
+N'Guessan,Affoue,Fille,10,3,L,Akouedo,+225 70666415,Aucune
+Gon,Rosine,Fille,10,3,L,Miséricorde,+225 53623795,Aucune
+Bakayoko,Rosine,Fille,11,3,L,Bethesda,+225 07115197,Asthme
+Fofana,Souleymane,Garçon,9,2,L,Marchou,+225 61334716,Allergie alimentaire
+Amani,Nadege,Fille,9,2,L,Beugre village,+225 45059822,Aucune
+Adjoumani,Marie,Fille,9,2,L,Miséricorde,+225 22863650,Aucune
+Aka,Wilfried,Garçon,8,2,M,Miséricorde,+225 90589796,Sinusite
+Dago,Lydie,Fille,7,1,M,Miséricorde,+225 56863247,Aucune
+Aka,Salimata,Fille,10,3,L,Miséricorde,+225 81647909,Asthme
+Assi,Aya,Fille,10,3,L,Bethesda,+225 46091032,Aucune
+Gbagbo,Rosine,Fille,4,1,S,Beugre village,+225 91516904,Aucune
+Gon,Serge,Garçon,14,4,XL,Miséricorde,+225 33907241,Allergie à la poussière
+Yao,Awa,Fille,13,4,XL,Vridi,+225 53711211,Aucune
+Kouassi,Stephane,Garçon,5,1,S,Akouedo,+225 08243004,Aucune
+N'Guessan,Boris,Garçon,4,1,S,Miséricorde,+225 12320747,Aucune
+Kone,Arsene,Garçon,15,4,XL,Bethesda,+225 68053223,Aucune
+Brou,Arnaud,Garçon,8,2,M,Bethesda,+225 73406951,Aucune
+Bakayoko,Emmanuel,Garçon,10,3,L,Marchou,+225 25779229,Asthme
+Gbagbo,Hermann,Garçon,12,3,XL,Miséricorde,+225 61435066,Aucune
+Konan,Fatoumata,Fille,11,3,L,Marchou,+225 15582996,Allergie à la poussière
+Bakayoko,Marie,Fille,10,3,L,Bethesda,+225 73501397,Aucune
+Traore,Boris,Garçon,14,4,XL,Bethesda,+225 09905687,Aucune
+Traore,Pascal,Garçon,13,4,XL,Akouedo,+225 80612400,Sinusite
+Bakayoko,Corinne,Fille,15,4,XL,Bethesda,+225 26187718,Aucune
+Toure,Pascal,Garçon,8,2,M,Bethesda,+225 75936527,Aucune
+Amani,Guy,Garçon,6,1,M,Miséricorde,+225 62442084,Aucune
+Assi,Didier,Garçon,17,4,XL,Miséricorde,+225 27245547,Aucune
+Kouame,Akissi,Fille,16,4,XL,Akouedo,+225 84541997,Asthme
+Dago,Elisabeth,Fille,12,3,XL,Bethesda,+225 31170587,Allergie à la poussière
+Kone,Desire,Garçon,6,1,M,Bethesda,+225 13485530,Asthme
+Adjoumani,Seydou,Garçon,15,4,XL,Akouedo,+225 77186551,Aucune
+Dago,Arsene,Garçon,13,4,XL,Akouedo,+225 18937549,Aucune
+Diabate,Kouakou,Garçon,11,3,L,Miséricorde,+225 21055047,Aucune
+N'Guessan,Madeleine,Fille,11,3,L,Marchou,+225 58990776,Aucune
+Adjoumani,Stephane,Garçon,8,2,M,Bethesda,+225 16652185,Aucune
+Diomande,Aminata,Fille,14,4,XL,Miséricorde,+225 49102225,Aucune
+Kouame,Stephane,Garçon,16,4,XL,Beugre village,+225 59994490,Allergie à la poussière
+Kouassi,Desiree,Fille,15,4,XL,Akouedo,+225 24959157,Allergie alimentaire
+Gnagne,Emmanuella,Fille,14,4,XL,Bethesda,+225 70194288,Asthme
+Gon,Kouadio,Garçon,11,3,L,Vridi,+225 66734970,Aucune
+Ouattara,Stephane,Garçon,10,3,L,Akouedo,+225 73121328,Allergie alimentaire
+Diabate,Akissi,Fille,11,3,L,Bethesda,+225 54080723,Allergie à la poussière
+Diomande,Amenan,Fille,7,1,M,Miséricorde,+225 65219210,Aucune
+Diabate,Josephine,Fille,7,1,M,Miséricorde,+225 46564606,Aucune
+Silue,Arsene,Garçon,7,1,M,Bethesda,+225 48322855,Aucune
+Gnagne,Madeleine,Fille,9,2,L,Beugre village,+225 64504140,Allergie alimentaire
+Kouassi,Awa,Fille,7,1,M,Bethesda,+225 95816135,Aucune
+Kouame,Kadiatou,Fille,14,4,XL,Akouedo,+225 06640973,Aucune
+Amani,Marie,Fille,14,4,XL,Bethesda,+225 36823269,Aucune
+Traore,Grace,Fille,12,3,XL,Beugre village,+225 51974102,Allergie à la poussière
+Coulibaly,Didier,Garçon,11,3,L,Miséricorde,+225 10660523,Allergie à la poussière
+Konan,Akissi,Fille,6,1,M,Akouedo,+225 14637168,Aucune
+Kone,Abdoulaye,Garçon,9,2,L,Bethesda,+225 21953975,Aucune
+Gon,Grace,Fille,9,2,L,Miséricorde,+225 50039740,Aucune
+Bakayoko,Guy,Garçon,11,3,L,Beugre village,+225 39749834,Allergie alimentaire
+Toure,Corinne,Fille,9,2,L,Miséricorde,+225 16115541,Asthme
+Diabate,Jean,Garçon,10,3,L,Bethesda,+225 46558903,Aucune
+Assi,Aicha,Fille,15,4,XL,Bethesda,+225 98051621,Aucune
+Diomande,Mamadou,Garçon,10,3,L,Akouedo,+225 21696317,Asthme
+Kone,Joel,Garçon,9,2,L,Bethesda,+225 77052142,Aucune
+Soro,Mariam,Fille,14,4,XL,Miséricorde,+225 20798565,Aucune
+N'Guessan,Aya,Fille,9,2,L,Bethesda,+225 83023623,Aucune
+Ouattara,Ibrahim,Garçon,8,2,M,Beugre village,+225 29943453,Allergie à la poussière
+Ble,Franck,Garçon,12,3,XL,Marchou,+225 18369002,Asthme
+Brou,Sandrine,Fille,11,3,L,Bethesda,+225 46923705,Aucune
+Bakayoko,Desire,Garçon,14,4,XL,Marchou,+225 06336083,Aucune
+Ble,Michel,Garçon,5,1,S,Miséricorde,+225 95544823,Aucune
+Coulibaly,Souleymane,Garçon,12,3,XL,Akouedo,+225 70765971,Aucune
+Soro,Pascal,Garçon,10,3,L,Bethesda,+225 63215356,Aucune
+Bamba,Emmanuella,Fille,11,3,L,Bethesda,+225 66355235,Asthme
+Aka,Adjoua,Fille,15,4,XL,Akouedo,+225 21579521,Aucune
+Diabate,Elisabeth,Fille,13,4,XL,Bethesda,+225 99019996,Aucune
+Bakayoko,Rosine,Fille,9,2,L,Miséricorde,+225 35139811,Aucune
+Kone,Lucien,Garçon,13,4,XL,Bethesda,+225 27167312,Sinusite
+Gnagne,Yao,Garçon,11,3,L,Miséricorde,+225 43247692,Aucune
+Silue,Awa,Fille,14,4,XL,Bethesda,+225 36622027,Aucune
+Assi,Patricia,Fille,8,2,M,Beugre village,+225 86251270,Aucune
+Brou,Jean,Garçon,14,4,XL,Akouedo,+225 95749141,Aucune
+Brou,Mamadou,Garçon,10,3,L,Beugre village,+225 39471945,Aucune
+Bedie,Stephane,Garçon,12,3,XL,Bethesda,+225 98186092,Aucune
+Kone,Stephane,Garçon,15,4,XL,Vridi,+225 92704202,Aucune
+Koffi,Seydou,Garçon,11,3,L,Miséricorde,+225 75915214,Aucune
+Diomande,Lydie,Fille,9,2,L,Akouedo,+225 41488343,Allergie à la poussière
+Gnagne,Christian,Garçon,7,1,M,Bethesda,+225 36548362,Aucune
+Toure,Serge,Garçon,8,2,M,Miséricorde,+225 57759533,Aucune
+Bamba,Arnaud,Garçon,7,1,M,Beugre village,+225 59523222,Aucune
+Amani,Marie,Fille,16,4,XL,Akouedo,+225 01658243,Aucune
+Ble,Guy,Garçon,8,2,M,Beugre village,+225 27804276,Allergie à la poussière
+Diabate,Michel,Garçon,12,3,XL,Bethesda,+225 66609437,Asthme
+Amani,Christian,Garçon,9,2,L,Bethesda,+225 76521981,Aucune
+Gnagne,Awa,Fille,10,3,L,Bethesda,+225 43770509,Aucune
+Aka,Joel,Garçon,12,3,XL,Beugre village,+225 82847865,Aucune
+Adjoumani,Mohamed,Garçon,7,1,M,Bethesda,+225 80820651,Aucune
+Kouame,Boris,Garçon,4,1,S,Miséricorde,+225 85989014,Aucune
+Kouame,Ibrahim,Garçon,13,4,XL,Bethesda,+225 94485204,Allergie alimentaire
+Koffi,Stephane,Garçon,14,4,XL,Miséricorde,+225 64904337,Aucune
+Gnagne,Kouadio,Garçon,8,2,M,Miséricorde,+225 65807544,Aucune
+Koffi,Bernadette,Fille,15,4,XL,Bethesda,+225 84378941,Aucune
+Soro,Desire,Garçon,16,4,XL,Bethesda,+225 77934770,Aucune
+Ouattara,Stephane,Garçon,13,4,XL,Vridi,+225 39081621,Aucune
+N'Guessan,Josephine,Fille,13,4,XL,Beugre village,+225 74976827,Sinusite
+Bedie,Rosine,Fille,15,4,XL,Bethesda,+225 04705094,Allergie à la poussière
+N'Guessan,Boris,Garçon,13,4,XL,Miséricorde,+225 76067462,Aucune
+N'Guessan,Josephine,Fille,10,3,L,Bethesda,+225 90540903,Asthme
+Soro,Patricia,Fille,10,3,L,Miséricorde,+225 47379090,Aucune
+Adjoumani,Aminata,Fille,11,3,L,Miséricorde,+225 29649178,Aucune
+Kouassi,Pascal,Garçon,5,1,S,Abobo Gare,+225 13321703,Aucune
+Kouassi,Akissi,Fille,12,3,XL,Akouedo,+225 17028343,Allergie à la poussière
+Yao,Pascal,Garçon,9,2,L,Akouedo,+225 03586096,Aucune
+Koffi,Emmanuel,Garçon,9,2,L,Bethesda,+225 88723908,Aucune
+Bedie,Jean,Garçon,14,4,XL,Akouedo,+225 44737343,Aucune
+Brou,Amenan,Fille,7,1,M,Akouedo,+225 65185617,Aucune
+Dago,Mohamed,Garçon,10,3,L,Bethesda,+225 44463709,Aucune
+Amani,Joel,Garçon,14,4,XL,Abobo Gare,+225 72436111,Aucune
+Kouassi,Madeleine,Fille,13,4,XL,Miséricorde,+225 63748300,Aucune
+Assi,Mohamed,Garçon,10,3,L,Bethesda,+225 76912242,Allergie à la poussière
+Diomande,Patricia,Fille,13,4,XL,Bethesda,+225 24054810,Allergie à la poussière
+Diomande,Joel,Garçon,11,3,L,Miséricorde,+225 75769996,Aucune
+Soro,Amenan,Fille,15,4,XL,Miséricorde,+225 74366036,Aucune
+Adjoumani,Bernadette,Fille,13,4,XL,Bethesda,+225 60526920,Allergie à la poussière
+Soro,Kouadio,Garçon,14,4,XL,Bethesda,+225 75850601,Allergie à la poussière
+Aka,Eric,Garçon,5,1,S,Beugre village,+225 02765875,Aucune
+Soro,Kouadio,Garçon,12,3,XL,Miséricorde,+225 91773662,Aucune
+Gbagbo,Awa,Fille,10,3,L,Akouedo,+225 92948156,Aucune
+Kone,Bernadette,Fille,10,3,L,Beugre village,+225 23401062,Aucune
+Assi,Elisabeth,Fille,13,4,XL,Bethesda,+225 90313353,Allergie à la poussière
+Bamba,Grace,Fille,5,1,S,Akouedo,+225 12344010,Aucune
+Gbagbo,Desiree,Fille,7,1,M,Bethesda,+225 12970324,Aucune
+Gon,Sandrine,Fille,13,4,XL,Bethesda,+225 25834124,Aucune
+Gnagne,Estelle,Fille,11,3,L,Miséricorde,+225 15220896,Allergie à la poussière
+Brou,Emmanuel,Garçon,7,1,M,Vridi,+225 55756412,Aucune
+Koffi,Patricia,Fille,12,3,XL,Miséricorde,+225 21375748,Aucune
+N'Guessan,Ismael,Garçon,16,4,XL,Akouedo,+225 73162446,Aucune
+Gon,Adjoua,Fille,10,3,L,Miséricorde,+225 49949963,Allergie à la poussière
+Traore,Joel,Garçon,10,3,L,Miséricorde,+225 46613883,Aucune
+Kone,Amenan,Fille,10,3,L,Bethesda,+225 49735218,Aucune
+Amani,Wilfried,Garçon,14,4,XL,Marchou,+225 08927658,Aucune
+Traore,Serge,Garçon,10,3,L,Akouedo,+225 24438747,Aucune
+Bakayoko,Awa,Fille,11,3,L,Beugre village,+225 71385544,Aucune
+Aka,Franck,Garçon,6,1,M,Bethesda,+225 34028042,Allergie à la poussière
+Kouassi,Victoire,Fille,11,3,L,Bethesda,+225 64053459,Allergie à la poussière
+Gbagbo,Patricia,Fille,19,4,XL,Marchou,+225 79279351,Asthme
+Coulibaly,Aicha,Fille,14,4,XL,Beugre village,+225 05219747,Aucune
+Silue,Wilfried,Garçon,16,4,XL,Miséricorde,+225 55905088,Aucune
+Ouattara,Sandrine,Fille,13,4,XL,Akouedo,+225 18210014,Aucune
+Dago,Serge,Garçon,16,4,XL,Miséricorde,+225 22955306,Asthme
+Brou,Kouadio,Garçon,14,4,XL,Beugre village,+225 44027797,Allergie à la poussière
+Gbagbo,Guy,Garçon,10,3,L,Bethesda,+225 90092328,Asthme
+N'Guessan,Aicha,Fille,6,1,M,Bethesda,+225 83224983,Allergie à la poussière
+Toure,Madeleine,Fille,14,4,XL,Bethesda,+225 20925057,Asthme
+Dago,Patricia,Fille,7,1,M,Akouedo,+225 87185799,Allergie alimentaire
+Yao,Franck,Garçon,7,1,M,Beugre village,+225 90063374,Aucune
+Brou,Affoue,Fille,11,3,L,Miséricorde,+225 92759137,Aucune
+Brou,Mariam,Fille,12,3,XL,Akouedo,+225 97009943,Allergie alimentaire
+Brou,Sylvie,Fille,9,2,L,Marchou,+225 95967752,Aucune
+Bedie,Didier,Garçon,8,2,M,Bethesda,+225 67938067,Asthme
+Aka,Kouadio,Garçon,12,3,XL,Bethesda,+225 70338821,Allergie à la poussière
+Toure,Kouadio,Garçon,8,2,M,Bethesda,+225 26480175,Asthme
+Gnagne,Franck,Garçon,11,3,L,Miséricorde,+225 82882132,Aucune
+Ouattara,Awa,Fille,13,4,XL,Akouedo,+225 35502208,Allergie à la poussière
+Ble,Souleymane,Garçon,14,4,XL,Bethesda,+225 84134860,Aucune
+Diabate,Desire,Garçon,13,4,XL,Beugre village,+225 02680803,Aucune
+N'Guessan,Didier,Garçon,13,4,XL,Vridi,+225 27658316,Aucune
+Konan,Lucien,Garçon,7,1,M,Akouedo,+225 49760338,Aucune
+Brou,Mohamed,Garçon,14,4,XL,Bethesda,+225 72401034,Aucune
+Toure,Fatoumata,Fille,12,3,XL,Bethesda,+225 18749219,Aucune
+Amani,Pascal,Garçon,8,2,M,Miséricorde,+225 52866996,Asthme
+Traore,Mohamed,Garçon,10,3,L,Bethesda,+225 22430502,Aucune
+Adjoumani,Lydie,Fille,6,1,M,Akouedo,+225 39012340,Aucune
+Diomande,Lucien,Garçon,4,1,S,Beugre village,+225 00276080,Aucune
+Koffi,Mamadou,Garçon,5,1,S,Akouedo,+225 10056886,Aucune
+Amani,Fatoumata,Fille,7,1,M,Beugre village,+225 83653363,Aucune
+Adjoumani,Awa,Fille,6,1,M,Abobo Gare,+225 68249342,Aucune
+Konan,Eric,Garçon,5,1,S,Akouedo,+225 61065709,Aucune
+Amani,Mamadou,Garçon,11,3,L,Miséricorde,+225 47013138,Aucune
+Bakayoko,Michel,Garçon,12,3,XL,Vridi,+225 93360597,Aucune
+Gon,Josephine,Fille,12,3,XL,Bethesda,+225 89768288,Aucune
+Assi,Lydie,Fille,8,2,M,Miséricorde,+225 25848668,Sinusite
+Amani,Koffi,Garçon,7,1,M,Miséricorde,+225 09384845,Aucune
+Kouassi,Michel,Garçon,14,4,XL,Bethesda,+225 14791919,Sinusite
+Kouassi,Adjoua,Fille,9,2,L,Akouedo,+225 53315507,Aucune
+Diomande,Pascal,Garçon,4,1,S,Beugre village,+225 60564989,Aucune
+Koffi,Pascal,Garçon,12,3,XL,Akouedo,+225 46531612,Allergie à la poussière
+Aka,Fatoumata,Fille,11,3,L,Akouedo,+225 08475128,Aucune
+Dago,Mohamed,Garçon,7,1,M,Bethesda,+225 75139564,Asthme
+Diabate,Patricia,Fille,8,2,M,Beugre village,+225 90178360,Aucune
+Kone,Serge,Garçon,8,2,M,Miséricorde,+225 73381324,Aucune
+Kouassi,Adjoua,Fille,10,3,L,Marchou,+225 33960954,Aucune
+Adjoumani,Sylvie,Fille,10,3,L,Akouedo,+225 69118559,Aucune
+Traore,Salimata,Fille,7,1,M,Bethesda,+225 64448157,Aucune
+Kone,Josephine,Fille,12,3,XL,Beugre village,+225 74277071,Aucune
+Adjoumani,Patricia,Fille,14,4,XL,Akouedo,+225 08404586,Aucune
+Diomande,Desire,Garçon,8,2,M,Miséricorde,+225 84604609,Aucune
+Yao,Akissi,Fille,7,1,M,Abobo Gare,+225 97932785,Allergie alimentaire
+Traore,Eric,Garçon,10,3,L,Beugre village,+225 23209166,Sinusite
+Koffi,Amenan,Fille,5,1,S,Beugre village,+225 81018528,Asthme
+Ble,Kouadio,Garçon,10,3,L,Abobo Gare,+225 08042698,Aucune
+Fofana,Stephane,Garçon,11,3,L,Miséricorde,+225 43908327,Asthme
+Brou,Mohamed,Garçon,17,4,XL,Marchou,+225 02578487,Aucune
+Gon,Mariam,Fille,9,2,L,Miséricorde,+225 73172063,Allergie à la poussière
+Yao,Aicha,Fille,11,3,L,Akouedo,+225 82374432,Aucune
+Toure,Hermann,Garçon,13,4,XL,Bethesda,+225 50682131,Aucune
+Traore,Awa,Fille,10,3,L,Akouedo,+225 59900340,Aucune
+Kouassi,Arnaud,Garçon,18,4,XL,Beugre village,+225 73053802,Allergie à la poussière
+Gnagne,Boris,Garçon,14,4,XL,Bethesda,+225 62351032,Aucune
+Kouame,Amenan,Fille,9,2,L,Miséricorde,+225 96985894,Allergie alimentaire
+Diabate,Ibrahim,Garçon,7,1,M,Akouedo,+225 20023214,Aucune
+Koffi,Hermann,Garçon,13,4,XL,Bethesda,+225 40450709,Aucune
+Yao,Mamadou,Garçon,7,1,M,Akouedo,+225 21968990,Aucune
+Ouattara,Mariam,Fille,7,1,M,Akouedo,+225 74522463,Aucune
+Bedie,Patricia,Fille,8,2,M,Miséricorde,+225 12693267,Sinusite
+Dago,Madeleine,Fille,5,1,S,Beugre village,+225 65792615,Aucune
+Diomande,Stephane,Garçon,7,1,M,Bethesda,+225 85855368,Aucune
+Aka,Ismael,Garçon,10,3,L,Miséricorde,+225 70294504,Aucune
+Adjoumani,Yao,Garçon,17,4,XL,Vridi,+225 97553920,Aucune
+Gon,Didier,Garçon,12,3,XL,Miséricorde,+225 33620640,Aucune
+Gbagbo,Adjoua,Fille,15,4,XL,Akouedo,+225 42211882,Sinusite
+Bedie,Michel,Garçon,14,4,XL,Akouedo,+225 47000292,Allergie alimentaire
+Amani,Aicha,Fille,12,3,XL,Miséricorde,+225 97873392,Allergie à la poussière
+Ouattara,Patricia,Fille,16,4,XL,Miséricorde,+225 72091104,Aucune
+Diabate,Emmanuella,Fille,7,1,M,Bethesda,+225 71506512,Allergie à la poussière
+Assi,Fatoumata,Fille,13,4,XL,Bethesda,+225 25432574,Asthme
+Assi,Guy,Garçon,12,3,XL,Akouedo,+225 76843783,Aucune
+Koffi,Abdoulaye,Garçon,10,3,L,Miséricorde,+225 89300343,Aucune
+Dago,Josephine,Fille,9,2,L,Miséricorde,+225 01667789,Aucune
+Bakayoko,Joel,Garçon,8,2,M,Miséricorde,+225 86343803,Allergie à la poussière
+Konan,Madeleine,Fille,11,3,L,Beugre village,+225 87115135,Asthme
+Yao,Adjoua,Fille,17,4,XL,Miséricorde,+225 82346677,Aucune
+Soro,Wilfried,Garçon,5,1,S,Marchou,+225 66486246,Aucune
+Amani,Joel,Garçon,13,4,XL,Miséricorde,+225 91832715,Aucune
+Bedie,Emmanuella,Fille,12,3,XL,Akouedo,+225 64098163,Aucune
+Fofana,Didier,Garçon,9,2,L,Marchou,+225 01698243,Asthme
+Traore,Aicha,Fille,6,1,M,Akouedo,+225 77113231,Aucune
+Kouame,Estelle,Fille,9,2,L,Bethesda,+225 95418621,Aucune
+Koffi,Akissi,Fille,16,4,XL,Vridi,+225 97520378,Aucune
+N'Guessan,Eric,Garçon,11,3,L,Akouedo,+225 90013185,Aucune
+Koffi,Madeleine,Fille,18,4,XL,Akouedo,+225 47957310,Aucune
+Dago,Affoue,Fille,7,1,M,Bethesda,+225 70875377,Aucune
+Diomande,Lucien,Garçon,14,4,XL,Akouedo,+225 38350214,Sinusite
+Yao,Didier,Garçon,6,1,M,Miséricorde,+225 05991517,Asthme
+Adjoumani,Emmanuel,Garçon,7,1,M,Miséricorde,+225 11198702,Aucune
+Bakayoko,Joel,Garçon,12,3,XL,Marchou,+225 44296631,Aucune
+Bakayoko,Elisabeth,Fille,15,4,XL,Beugre village,+225 70135961,Aucune
+Dago,Jean,Garçon,7,1,M,Bethesda,+225 86280538,Aucune
+Ouattara,Desire,Garçon,7,1,M,Beugre village,+225 41783394,Allergie alimentaire
+Koffi,Boris,Garçon,14,4,XL,Akouedo,+225 38242521,Aucune
+Bedie,Stephane,Garçon,8,2,M,Bethesda,+225 28085957,Asthme
+Gnagne,Kadiatou,Fille,17,4,XL,Miséricorde,+225 34688782,Aucune
+Soro,Arsene,Garçon,8,2,M,Miséricorde,+225 61830006,Aucune
+Amani,Aya,Fille,11,3,L,Miséricorde,+225 49293891,Aucune
+Aka,Yao,Garçon,12,3,XL,Akouedo,+225 51709695,Aucune
+Yao,Amenan,Fille,11,3,L,Miséricorde,+225 97081088,Allergie à la poussière
+Fofana,Elisabeth,Fille,8,2,M,Akouedo,+225 76602716,Aucune
+Amani,Yao,Garçon,12,3,XL,Miséricorde,+225 80496994,Aucune
+Toure,Elisabeth,Fille,13,4,XL,Akouedo,+225 81725391,Aucune
+Kouame,Desiree,Fille,4,1,S,Bethesda,+225 80913745,Aucune
+Brou,Lucien,Garçon,10,3,L,Bethesda,+225 53024449,Aucune
+Toure,Marie,Fille,6,1,M,Miséricorde,+225 30955812,Asthme
+Gbagbo,Boris,Garçon,12,3,XL,Miséricorde,+225 94860574,Aucune
+Gon,Arnaud,Garçon,15,4,XL,Miséricorde,+225 22592917,Aucune
+Gon,Arnaud,Garçon,13,4,XL,Miséricorde,+225 55586755,Asthme
+N'Guessan,Yao,Garçon,14,4,XL,Beugre village,+225 18083763,Sinusite
+Brou,Victoire,Fille,5,1,S,Bethesda,+225 91827387,Aucune
+Dago,Franck,Garçon,8,2,M,Marchou,+225 68725644,Allergie alimentaire
+Dago,Marie,Fille,15,4,XL,Akouedo,+225 22032788,Asthme
+Kouassi,Fatoumata,Fille,18,4,XL,Beugre village,+225 25823691,Allergie alimentaire
+Gnagne,Christelle,Fille,12,3,XL,Bethesda,+225 06728611,Aucune
+Ouattara,Salimata,Fille,8,2,M,Beugre village,+225 31386480,Aucune
+Coulibaly,Desiree,Fille,9,2,L,Akouedo,+225 94999218,Aucune
+Coulibaly,Amenan,Fille,11,3,L,Miséricorde,+225 67080411,Aucune
+Ouattara,Eric,Garçon,11,3,L,Miséricorde,+225 34383875,Aucune
+N'Guessan,Emmanuella,Fille,11,3,L,Abobo Gare,+225 19580500,Sinusite
+Kouame,Sylvie,Fille,14,4,XL,Akouedo,+225 67320098,Allergie alimentaire
+Ble,Abdoulaye,Garçon,6,1,M,Akouedo,+225 31235648,Asthme
+Gbagbo,Kouakou,Garçon,6,1,M,Miséricorde,+225 91947353,Aucune
+Kone,Michel,Garçon,14,4,XL,Bethesda,+225 25338958,Aucune
+Bakayoko,Madeleine,Fille,12,3,XL,Miséricorde,+225 11791732,Aucune
+Konan,Souleymane,Garçon,6,1,M,Miséricorde,+225 53915333,Allergie à la poussière
+Bedie,Didier,Garçon,12,3,XL,Miséricorde,+225 43736038,Sinusite
+Koffi,Christelle,Fille,11,3,L,Bethesda,+225 31154213,Aucune
+Traore,Aminata,Fille,8,2,M,Vridi,+225 54810927,Aucune
+Kouame,Bernadette,Fille,11,3,L,Akouedo,+225 38197983,Aucune
+Amani,Abdoulaye,Garçon,14,4,XL,Bethesda,+225 42225594,Allergie alimentaire
+Bamba,Christelle,Fille,15,4,XL,Akouedo,+225 02873227,Aucune
+Kouassi,Rosine,Fille,10,3,L,Miséricorde,+225 47973618,Aucune
+Dago,Souleymane,Garçon,4,1,S,Beugre village,+225 36342626,Aucune
+Kouassi,Wilfried,Garçon,13,4,XL,Miséricorde,+225 68831508,Aucune
+Kouame,Affoue,Fille,10,3,L,Miséricorde,+225 47861343,Aucune
+Bamba,Marie,Fille,14,4,XL,Bethesda,+225 57200930,Sinusite
+Kouassi,Grace,Fille,6,1,M,Beugre village,+225 85702230,Aucune
+Bakayoko,Ibrahim,Garçon,7,1,M,Akouedo,+225 12698947,Aucune
+Aka,Rosine,Fille,9,2,L,Akouedo,+225 00289004,Aucune
+Soro,Arnaud,Garçon,9,2,L,Akouedo,+225 05329935,Aucune
+Bedie,Mohamed,Garçon,8,2,M,Bethesda,+225 59747788,Sinusite
+Koffi,Mariam,Fille,6,1,M,Bethesda,+225 10005703,Aucune
+Dago,Christelle,Fille,8,2,M,Bethesda,+225 18824066,Allergie à la poussière
+Konan,Seydou,Garçon,15,4,XL,Miséricorde,+225 65930072,Aucune
+Gnagne,Awa,Fille,13,4,XL,Miséricorde,+225 23458020,Aucune
+Soro,Affoue,Fille,9,2,L,Akouedo,+225 96447260,Aucune
+Koffi,Didier,Garçon,13,4,XL,Bethesda,+225 69575379,Aucune
+Ble,Pascal,Garçon,7,1,M,Miséricorde,+225 96016556,Aucune
+Koffi,Akissi,Fille,8,2,M,Bethesda,+225 89285078,Aucune
+Yao,Akissi,Fille,8,2,M,Beugre village,+225 43046556,Asthme
+Ble,Abdoulaye,Garçon,14,4,XL,Miséricorde,+225 92415274,Aucune
+Amani,Guy,Garçon,9,2,L,Miséricorde,+225 72826147,Aucune
+Adjoumani,Nadege,Fille,15,4,XL,Bethesda,+225 05021277,Aucune
+Soro,Ibrahim,Garçon,9,2,L,Bethesda,+225 06892859,Aucune
+Traore,Michel,Garçon,6,1,M,Miséricorde,+225 01180969,Aucune
+Coulibaly,Hermann,Garçon,13,4,XL,Akouedo,+225 14846537,Aucune
+Aka,Stephane,Garçon,11,3,L,Miséricorde,+225 29543267,Aucune
+Kone,Madeleine,Fille,15,4,XL,Akouedo,+225 88510214,Allergie à la poussière
+Traore,Abdoulaye,Garçon,15,4,XL,Abobo Gare,+225 83991915,Aucune
+Silue,Yao,Garçon,9,2,L,Marchou,+225 22302030,Aucune
+Kone,Sandrine,Fille,7,1,M,Beugre village,+225 49439128,Aucune
+Adjoumani,Marie,Fille,7,1,M,Bethesda,+225 09259327,Aucune
+Diomande,Yao,Garçon,9,2,L,Bethesda,+225 72392791,Aucune
+Kouame,Koffi,Garçon,10,3,L,Bethesda,+225 20447036,Aucune
+Dago,Awa,Fille,14,4,XL,Marchou,+225 91913576,Aucune
+Amani,Adjoua,Fille,14,4,XL,Miséricorde,+225 83141530,Aucune
